@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Nov 2018 17:07:40 at https://coderthemes.com/uplon/horizontal/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coderthemes.com/uplon/horizontal/index.html -O1 "C:\My Web Sites\uplon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/GET (from https://coderthemes.com/uplon/horizontal/assets/plugins/custombox/js/custombox.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/assets/plugins/multiselect/img/switch.png (from https://coderthemes.com/uplon/horizontal/assets/plugins/multiselect/css/multi-select.css)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/zlib/deflate.js (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/jszip.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/zlib/inflate.js (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/jszip.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/xl/worksheets/sheet1.xml (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/buttons.html5.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/xl/workbook.xml (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/buttons.html5.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/xl/styles.xml (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/buttons.html5.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/[Content_Types].xml (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/buttons.html5.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/buttons.pdf (from https://coderthemes.com/uplon/horizontal/assets/plugins/datatables/buttons.html5.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/core/core.js (from https://coderthemes.com/uplon/horizontal/assets/plugins/chart.js/chart.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/core/core.plugin.js (from https://coderthemes.com/uplon/horizontal/assets/plugins/chart.js/chart.min.js)
+17:09:41	Error: 	"Not Found" (404) at link https://coderthemes.com/uplon/horizontal/options.time.format is deprecated and replaced by options.time.parser. See http://nnnick.github.io/Chart.js/docs-v2/ (from https://coderthemes.com/uplon/horizontal/assets/plugins/chart.js/chart.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 289 links scanned, 276 files written (13713453 bytes overall) [6346224 bytes received at 52448 bytes/sec], 9654949 bytes transferred using HTTP compression in 203 files, ratio 22%, 48.1 requests per connection
+(12 errors, 0 warnings, 0 messages)
